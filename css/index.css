@@ -189,3 +189,39 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.mid{
+    margin-top:3%;
+    width:;
+    padding:;
+    border-bottom: 3px dotted blue;
+    display:flex;
+  justify-content: space-between;
+}
+
+.aboutsec{
+    width:100%;
+    padding:2%;
+    flex-direction: column;
+}
+.divabout{
+    width: 50%;
+    margin:;
+    padding-bottom:5%;
+  
+}
+
+.bottomabout{
+    font-size:20px;
+    width: 100%;
+    margin:3% auto 0;
+    border-top:3px dotted black;
+    padding:5%;
+    flex-direction: column;
+}
+
+button{
+    border-radius: 8px;
+    padding: 2%;
+    background-color: white;
+}
